@@ -5,9 +5,8 @@ I'm a developer looking to solve real problems with programming, contribute to o
 I mostly develop in C++, Python, like to automate stuff and helping people in [learnprogramming subreddit](https://www.reddit.com/r/learnprogramming/).
 
 
-- 🔭 I’m currently studying how to work with AWS in my next projects
-- 🌱 I’m currently learning django rest framework
-- 👯 I’m looking to contribute on any project that can make impact for other people . - currently contributing to [SimpleLearn](https://github.com/skekre98/simple_learn)
+- 🌱 I’m currently working on python blog website of my own 
+- 👯 I’m looking to contribute on any project that can make impact for other people .
 
 <p align="center" >
 	<a href="https://github.com/eranns/eranns"> 
